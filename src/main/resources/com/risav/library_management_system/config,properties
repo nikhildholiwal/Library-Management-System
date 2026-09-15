@@ -1,3 +1,0 @@
-db.url=jdbc:mysql://localhost:3306/lib_man_sys?useSSL=false
-db.username=risav
-db.password=1234
